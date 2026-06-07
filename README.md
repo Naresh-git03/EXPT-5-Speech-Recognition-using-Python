@@ -8,7 +8,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```collab
+```python
 !pip install SpeechRecognition pydub
 import speech_recognition as sr
 from pydub import AudioSegment
